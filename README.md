@@ -1,5 +1,5 @@
 
-# 🏦 Insurance Workflow Management System
+# 🏦 InsureFlow - Insurance Workflow Management System
 
 ### Full-Stack Intelligent Insurance Platform with Fraud Detection & NLP Integration
 
